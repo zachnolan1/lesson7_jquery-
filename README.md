@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 17th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Zach Nolan 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We began to use JQuery functions 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://zachnolan1.github.io/lesson7_jquery-/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. the fadeIn() function is used to fade in hidden comments.
+2. the click() function specifies the code to execute when you click it.
+3. the JQuery animate() function lets us create custom animations.
 
